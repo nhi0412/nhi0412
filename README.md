@@ -22,7 +22,8 @@ I love solving real-world problems through data and intuitive design. My journey
 - Analyzed traffic sources, conversions, and customer retention  
 
 
-### 🎨 **MenuMate** (UI/UX Design)  
+
+### 🎨 [**MenuMate** (UI/UX Design)](https://ngocthiennhi9a2.wixsite.com/tracyng)  
 *A user-friendly menu recommendation app based on available ingredients*  
 - Designed an intuitive UI to enhance user experience  
 - Conducted user research and usability testing  

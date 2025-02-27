@@ -15,12 +15,11 @@ I love solving real-world problems through data and intuitive design. My journey
 
 ## 📌 Projects  
 
-[### 📊 **Google Merchandise Store Analysis | SQL**  ]
-(https://github.com/nhi0412/SQL_Google_Merchandise_Store_Analysis)
-*Analyzed Google Analytics data for an e-commerce store*  
+### 📊 [Google Merchandise Store Analysis | SQL](https://github.com/nhi0412/SQL_Google_Merchandise_Store_Analysis)  
+*Analyzed Google Analytics data for an e-commerce store using SQL in BigQuery*  
 - Queried BigQuery public dataset to extract insights  
 - Identified key trends in user behavior and revenue performance  
-- Used SQL to analyze traffic sources, conversions, and customer retention
+- Analyzed traffic sources, conversions, and customer retention  
 
 
 ### 🎨 **MenuMate** (UI/UX Design)  

@@ -15,11 +15,7 @@ I love solving real-world problems through data and intuitive design. My journey
 
 ## 📌 Projects  
 
-### 📊 **Google Merchandise Store Analysis | SQL**  
-*Analyzed Google Analytics data for an e-commerce store*  
-- Queried BigQuery public dataset to extract insights  
-- Identified key trends in user behavior and revenue performance  
-- Used SQL to analyze traffic sources, conversions, and customer retention
+<table> <tr> <td width="50%" valign="top"> <h3>📉 <span style="color:#FF69B4;">User-Churn-Analysis</span></h3> <p>Created a reporting dashboard in Power BI to help managers discover customer churn trends.</p> </td> <td width="50%" valign="top"> <h3>💰 <span style="color:#ADFF2F;">Collection-Analysis</span></h3> <p>Analyzed debt recovery efficiency for "Bank X" to optimize the allocation of debt portfolios.</p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🛒 <span style="color:#FFA500;">Superstore-Sales-and-Expansion</span></h3> <p>Market analysis to help senior managers strategize business expansion and product selection.</p> </td> <td width="50%" valign="top"> <h3>📊 <span style="color:#6495ED;">RFM-Analysis</span></h3> <p>Customer segmentation analysis to identify high-value users for better marketing strategies.</p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🛍️ <span style="color:#90EE90;">Explore-Ecommerce-Dataset</span></h3> <p>Performed SQL queries in Google BigQuery to extract insights from an e-commerce dataset.</p> </td> <td width="50%" valign="top"> <h3>📈 <span style="color:#DDA0DD;">Cohort-Analysis</span></h3> <p>Analyzed user retention trends and engagement metrics for growth and performance evaluation.</p> </td> </tr> </table>
 
   
 ### 🎨 **MenuMate** (UI/UX Design)  

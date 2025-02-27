@@ -8,7 +8,7 @@
 I love solving real-world problems through data and intuitive design. My journey started with UI/UX design, where I built user-friendly interfaces, and now I'm diving deep into data analysis and machine learning. I enjoy working on projects that bridge the gap between technology and human experience.  
 
 ## 🔧 Skills  
-- **Programming**: Python, C++, SQL, HTML, CSS, JavaScript  
+- **Programming**: Python, SQL, HTML, CSS, JavaScript, C++, Java
 - **Databases**: MySQL, PostgreSQL, MongoDB  
 - **Tools**: Power BI  
 - **Development**: React, Spring Boot  

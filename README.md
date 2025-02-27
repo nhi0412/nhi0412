@@ -15,7 +15,7 @@ I love solving real-world problems through data and intuitive design. My journey
 
 ## 📌 Projects  
 
-[![### 📊 **Google Merchandise Store Analysis | SQL**  ]
+[### 📊 **Google Merchandise Store Analysis | SQL**  ]
 (https://github.com/nhi0412/SQL_Google_Merchandise_Store_Analysis)
 *Analyzed Google Analytics data for an e-commerce store*  
 - Queried BigQuery public dataset to extract insights  
@@ -31,7 +31,7 @@ I love solving real-world problems through data and intuitive design. My journey
 
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/tracy-nguyen-86687a241/)  
-[![Portfolio](https://silicon-base-535.notion.site/Tracy-Nguyen-19faffefd9b7807b913fecbd38e3803d?pvs=4)  
-[![Email](mailto:ngocthiennhi9a2@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/tracy-nguyen-86687a241/)  
+[Portfolio](https://silicon-base-535.notion.site/Tracy-Nguyen-19faffefd9b7807b913fecbd38e3803d?pvs=4)  
+[Email](mailto:ngocthiennhi9a2@gmail.com)  
 

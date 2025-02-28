@@ -21,7 +21,11 @@ I love solving real-world problems through data and intuitive design. My journey
 - Identified key trends in user behavior and revenue performance  
 - Analyzed traffic sources, conversions, and customer retention  
 
-
+### 📊 [Bicycle Manufacturing Analysis | SQL] (https://github.com/nhi0412/SQL_Bicycle_Manufacture_Analysis)
+*Analyzed sales, inventory, and customer data for a bicycle manufacturer using SQL in BigQuery*
+- Queried BigQuery dataset to uncover business insights
+- Examined stock levels, sales trends, and order fulfillment efficiency
+- Analyzed customer retention, revenue performance, and marketing impact
 
 ### 🎨 [**MenuMate** (UI/UX Design)](https://ngocthiennhi9a2.wixsite.com/tracyng)  
 *A user-friendly menu recommendation app based on available ingredients*  

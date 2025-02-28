@@ -10,7 +10,7 @@ I love solving real-world problems through data and intuitive design. My journey
 ## 🔧 Skills  
 - **Programming**: Python, SQL, HTML, CSS, JavaScript, C++, Java
 - **Databases**: MySQL, PostgreSQL, MongoDB  
-- **Tools**: Power BI  
+- **Tools**: Power BI, Figma
 - **Development**: React, Spring Boot  
 
 ## 📌 Projects  

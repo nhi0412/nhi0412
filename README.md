@@ -8,7 +8,7 @@
 I love solving real-world problems through data and intuitive design. My journey started with UI/UX design, where I built user-friendly interfaces, and now I'm diving deep into data analysis and machine learning. I enjoy working on projects that bridge the gap between technology and human experience.  
 
 ## 🔧 Skills  
-- **Programming**: Python(Pandas, NumPy, MatPlotLib, Seaborn), HTML, CSS, JavaScript, C++, Java, React
+- **Programming**: Python(Pandas, NumPy, MatPlotLib, Seaborn), R, HTML, CSS, JavaScript, C++, Java, React
 - **Databases**: MySQL, PostgreSQL, Google Bigquery, MongoDB  
 - **Tools**: Power BI(DAX, Power Query, Data Modeling), Figma
 - **Frameworks**: Spring Boot, Node.js

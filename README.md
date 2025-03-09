@@ -18,6 +18,8 @@ I love solving real-world problems through data and intuitive design. My journey
 
 ### 📊 [HR Workforce Analysis | PowerBI](https://github.com/nhi0412/PowerBI_HR_Workforce_Analysis)
 *Analyzed HR metrics and employee data to gain insights on turnover, performance, and engagement*
+- Cleaned and transformed data for accuracy and consistency
+- Modeled data by creating relationships between tables
 - Designed an interactive dashboard to visualize key workforce metrics
 - Analyzed turnover rates, employee satisfaction, and retention patterns
 - Provided data-driven recommendations for improving employee engagement and retention

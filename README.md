@@ -16,6 +16,12 @@ I love solving real-world problems through data and intuitive design. My journey
 
 ## 📌 Projects  
 
+### 📊 [HR Workforce Analysis | PowerBI](https://github.com/nhi0412/PowerBI_HR_Workforce_Analysis)
+*Analyzed HR metrics and employee data to gain insights on turnover, performance, and engagement*
+- Designed an interactive dashboard to visualize key workforce metrics
+- Analyzed turnover rates, employee satisfaction, and retention patterns
+- Provided data-driven recommendations for improving employee engagement and retention
+
 ### 📊 [Google Merchandise Store Analysis | SQL](https://github.com/nhi0412/SQL_Google_Merchandise_Store_Analysis)  
 *Analyzed Google Analytics data for an e-commerce store using SQL in BigQuery*  
 - Queried BigQuery public dataset to extract insights  

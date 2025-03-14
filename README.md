@@ -16,6 +16,13 @@ I love solving real-world problems through data and intuitive design. My journey
 
 ## 📌 Projects  
 
+### 📊 [Superstore Sales Analysis | Power BI](https://github.com/nhi0412/PowerBI_SuperStore_Sales_and_Expansion_Potential_Analysis/tree/main)
+*Developed a real-time dashboard for senior management to track business performance and guide strategic decisions*
+- Integrated order, sales, return, and customer data for real-time insights
+- Created a dynamic dashboard showcasing sales, profit margins, and product performance by region
+- Analyzed customer segments, sales trends, and inventory turnover for market expansion opportunities
+- Provided data-driven recommendations for strategic product selection and regional growth
+
 ### 📊 [HR Workforce Analysis | PowerBI](https://github.com/nhi0412/PowerBI_HR_Workforce_Analysis)
 *Analyzed HR metrics and employee data to gain insights on turnover, performance, and engagement*
 - Cleaned and transformed data for accuracy and consistency

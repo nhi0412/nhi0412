@@ -15,6 +15,11 @@ I love solving real-world problems through data and intuitive design. My journey
 - **Machine Learning**: Supervised Learning with Scikit-learn 
 
 ## 📌 Projects  
+### 📊 [AdventureWorks_Inventory_Analysis | SQL, PowerBI](https://github.com/nhi0412/SQL_PowerBI_Adventureworks_Inventory_Analysis)
+*Analyzed the AdventureWorks dataset to evaluate inventory performance across product categories, warehouses, and regions.*
+- Used SQL to extract, clean, and join data from multiple tables.
+- Designed a Power BI dashboard to visualize stock levels, turnover rates, supply-demand gaps and detailed product information.
+- Identified underperforming products and recommended improving inventory efficiency and reducing holding costs.
 
 ### 📊 [Superstore Sales Analysis | Power BI](https://github.com/nhi0412/PowerBI_SuperStore_Sales_and_Expansion_Potential_Analysis/tree/main)
 *Developed a real-time dashboard for senior management to track business performance and guide strategic decisions*

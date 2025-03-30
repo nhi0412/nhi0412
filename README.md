@@ -15,18 +15,18 @@ I love solving real-world problems through data and intuitive design. My journey
 - **Machine Learning**: Supervised Learning with Scikit-learn 
 
 ## 📌 Projects  
-### 📊 [AdventureWorks_Inventory_Analysis | SQL, PowerBI](https://github.com/nhi0412/SQL_PowerBI_Adventureworks_Inventory_Analysis)
-*Analyzed the AdventureWorks dataset to evaluate inventory performance across product categories, warehouses, and regions.*
-- Used SQL to extract, clean, and join data from multiple tables.
-- Designed a Power BI dashboard to visualize stock levels, turnover rates, supply-demand gaps and detailed product information.
-- Identified underperforming products and recommended improving inventory efficiency and reducing holding costs.
-
 ### 📊 [Superstore Sales Analysis | Power BI](https://github.com/nhi0412/PowerBI_SuperStore_Sales_and_Expansion_Potential_Analysis/tree/main)
 *Developed a real-time dashboard for senior management to track business performance and guide strategic decisions*
 - Integrated order, sales, return, and customer data for real-time insights
 - Created a dynamic dashboard showcasing sales, profit margins, and product performance by region
 - Analyzed customer segments, sales trends, and inventory turnover for market expansion opportunities
 - Provided data-driven recommendations for strategic product selection and regional growth
+
+### 📊 [AdventureWorks_Inventory_Analysis | SQL, PowerBI](https://github.com/nhi0412/SQL_PowerBI_Adventureworks_Inventory_Analysis)
+*Analyzed the AdventureWorks dataset to evaluate inventory performance across product categories, warehouses, and regions.*
+- Used SQL to extract, clean, and join data from multiple tables.
+- Designed a Power BI dashboard to visualize stock levels, turnover rates, supply-demand gaps and detailed product information.
+- Identified underperforming products and recommended improving inventory efficiency and reducing holding costs.
 
 ### 📊 [HR Workforce Analysis | PowerBI](https://github.com/nhi0412/PowerBI_HR_Workforce_Analysis)
 *Analyzed HR metrics and employee data to gain insights on turnover, performance, and engagement*
@@ -59,5 +59,5 @@ I love solving real-world problems through data and intuitive design. My journey
 [LinkedIn](https://www.linkedin.com/in/tracy-nguyen-86687a241/)  
 [Portfolio](https://silicon-base-535.notion.site/Tracy-Nguyen-19faffefd9b7807b913fecbd38e3803d?pvs=4)  
 [Email](mailto:ngocthiennhi9a2@gmail.com)
-[Resume](https://drive.google.com/file/d/19JVlqp8B5Rtjcjea30rf0tOVCpKdzjsh/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1akIPsSQvodGtm4d_hOIGA6aw6108CdNt/view?usp=sharing)
 

@@ -66,4 +66,49 @@ I love solving real-world problems through data and intuitive design. My journey
 *A user-friendly menu recommendation app based on available ingredients*  
 - Designed an intuitive UI to enhance user experience  
 - Conducted user research and usability testing  
-- Created wireframes and interactive prototypes using Figma  
+- Created wireframes and interactive prototypes using Figma
+
+
+## 📁 Projects for Sharing
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 <a href="https://github.com/yourusername/Python_RFM_Analysis">Python_RFM_Analysis</a></h3>
+      <p>Utilize the RFM model to segment customers and propose appropriate marketing campaigns.</p>
+      <img src="https://img.shields.io/badge/Notebook-Jupyter-orange" />
+      <img src="https://img.shields.io/badge/Fork-1-success" />
+    </td>
+    <td width="50%">
+      <h3>📊 <a href="https://github.com/yourusername/Python_Cohort_Analysis">Python_Cohort_Analysis</a></h3>
+      <p>Analyze transaction data from KPMG to evaluate user engagement from first purchase.</p>
+      <img src="https://img.shields.io/badge/Notebook-Jupyter-orange" />
+      <img src="https://img.shields.io/badge/Fork-1-success" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧮 <a href="https://github.com/yourusername/SQL-PBI_Inventory_Controlling">SQL-PBI_Inventory_Controlling</a></h3>
+      <p>Extract and model inventory data in BigQuery and build interactive dashboard in Power BI.</p>
+      <img src="https://img.shields.io/badge/SQL-BigQuery-blue" />
+      <img src="https://img.shields.io/badge/Fork-2-success" />
+    </td>
+    <td width="50%">
+      <h3>🔍 <a href="https://github.com/yourusername/SQL_Ecommerce_Exploring">SQL_Ecommerce_Exploring</a></h3>
+      <p>Explore e-commerce transaction data using SQL and derive key business insights.</p>
+      <img src="https://img.shields.io/badge/SQL-BigQuery-blue" />
+      <img src="https://img.shields.io/badge/Fork-2-success" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 <a href="https://github.com/yourusername/ML_4G_Service_Prediction">ML_4G_Service_Prediction</a></h3>
+      <p>Predict customer registration for 4G services using supervised machine learning.</p>
+      <img src="https://img.shields.io/badge/Notebook-Jupyter-orange" />
+      <img src="https://img.shields.io/badge/Fork-1-success" />
+    </td>
+  </tr>
+</table>
+
+
+

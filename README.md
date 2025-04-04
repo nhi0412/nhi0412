@@ -15,6 +15,14 @@ I love solving real-world problems through data and intuitive design. My journey
 - **Machine Learning**: Supervised Learning with Scikit-learn 
 
 ## 📌 Projects  
+### 📊 [RFM Analysis | Python](https://github.com/nhi0412/Python_RFM_Analysis/tree/main)
+*Segment customers to launch marketing campaigns showing appreciation to loyal customers and engaging potential customers who could become loyal.*
+- Preprocessed 500K+ transaction records to compute Recency, Frequency, and Monetary scores per customer.
+- Segmented customers into Loyal, Potential, and Non-loyal groups using quantile-based scoring.
+- Conducted exploratory analysis to compare first/second order behaviors, average order values, and loyalty patterns.
+- Created visualizations (bar charts, boxplots, stacked columns, FacetGrid) to understand customer behavior across countries and segments.
+- Provided actionable insights to help the Marketing team appreciate loyal customers and convert potential ones during the festive season.
+
 ### 📊 [Superstore Sales Analysis | Power BI](https://github.com/nhi0412/PowerBI_SuperStore_Sales_and_Expansion_Potential_Analysis/tree/main)
 *Developed a real-time dashboard for senior management to track business performance and guide strategic decisions*
 - Integrated order, sales, return, and customer data for real-time insights

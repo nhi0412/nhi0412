@@ -73,42 +73,39 @@ I love solving real-world problems through data and intuitive design. My journey
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>📊 <a href="https://github.com/yourusername/Python_RFM_Analysis">Python_RFM_Analysis</a></h3>
-      <p>Utilize the RFM model to segment customers and propose appropriate marketing campaigns.</p>
-      <img src="https://img.shields.io/badge/Notebook-Jupyter-orange" />
-      <img src="https://img.shields.io/badge/Fork-1-success" />
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/yourusername/Python_RFM_Analysis" style="color:#2c97de;">Python_RFM_Analysis</a></h3>
+      <p style="color:#555;">Utilize the RFM model to segment customers and propose appropriate marketing campaigns.</p>
+      <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" />
+      <img src="https://img.shields.io/badge/Status-Complete-brightgreen" />
     </td>
-    <td width="50%">
-      <h3>📊 <a href="https://github.com/yourusername/Python_Cohort_Analysis">Python_Cohort_Analysis</a></h3>
-      <p>Analyze transaction data from KPMG to evaluate user engagement from first purchase.</p>
-      <img src="https://img.shields.io/badge/Notebook-Jupyter-orange" />
-      <img src="https://img.shields.io/badge/Fork-1-success" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🧮 <a href="https://github.com/yourusername/SQL-PBI_Inventory_Controlling">SQL-PBI_Inventory_Controlling</a></h3>
-      <p>Extract and model inventory data in BigQuery and build interactive dashboard in Power BI.</p>
-      <img src="https://img.shields.io/badge/SQL-BigQuery-blue" />
-      <img src="https://img.shields.io/badge/Fork-2-success" />
-    </td>
-    <td width="50%">
-      <h3>🔍 <a href="https://github.com/yourusername/SQL_Ecommerce_Exploring">SQL_Ecommerce_Exploring</a></h3>
-      <p>Explore e-commerce transaction data using SQL and derive key business insights.</p>
-      <img src="https://img.shields.io/badge/SQL-BigQuery-blue" />
-      <img src="https://img.shields.io/badge/Fork-2-success" />
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/yourusername/Python_Cohort_Analysis" style="color:#2c97de;">Python_Cohort_Analysis</a></h3>
+      <p style="color:#555;">Analyze transaction data from KPMG to evaluate user engagement from first purchase.</p>
+      <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" />
+      <img src="https://img.shields.io/badge/Status-Complete-brightgreen" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🤖 <a href="https://github.com/yourusername/ML_4G_Service_Prediction">ML_4G_Service_Prediction</a></h3>
-      <p>Predict customer registration for 4G services using supervised machine learning.</p>
-      <img src="https://img.shields.io/badge/Notebook-Jupyter-orange" />
-      <img src="https://img.shields.io/badge/Fork-1-success" />
+    <td width="50%" valign="top">
+      <h3>🗃️ <a href="https://github.com/yourusername/SQL-PBI_Inventory_Controlling" style="color:#2c97de;">SQL-PBI_Inventory_Controlling</a></h3>
+      <p style="color:#555;">Extract inventory data with BigQuery SQL and build a dashboard with Power BI.</p>
+      <img src="https://img.shields.io/badge/SQL-BigQuery-blue" />
+      <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/yourusername/SQL_Ecommerce_Exploring" style="color:#2c97de;">SQL_Ecommerce_Exploring</a></h3>
+      <p style="color:#555;">Explore e-commerce data using BigQuery SQL and gain customer insights.</p>
+      <img src="https://img.shields.io/badge/SQL-BigQuery-blue" />
+      <img src="https://img.shields.io/badge/Exploration-Complete-success" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/yourusername/ML_4G_service_prediction" style="color:#2c97de;">ML_4G_service_prediction</a></h3>
+      <p style="color:#555;">Build a classification model to predict which users will register 4G services.</p>
+      <img src="https://img.shields.io/badge/Python-Scikit--Learn-blueviolet" />
+      <img src="https://img.shields.io/badge/ML-Supervised-green" />
     </td>
   </tr>
 </table>
-
-
-

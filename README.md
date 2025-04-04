@@ -4,6 +4,12 @@
 📊 Aspiring Data Analyst | Passionate about uncovering insights from data  
 💡 Interested in AI, Machine Learning, and UI/UX Design  
 
+## 📫 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/tracy-nguyen-86687a241/)  
+[Portfolio](https://silicon-base-535.notion.site/Tracy-Nguyen-19faffefd9b7807b913fecbd38e3803d?pvs=4)  
+[Email](mailto:ngocthiennhi9a2@gmail.com)
+[Resume](https://drive.google.com/file/d/1hLparge0rq37U5a7mXrsLpUayjoIrRIn/view?usp=sharing)
+
 ## 🚀 About Me  
 I love solving real-world problems through data and intuitive design. My journey started with UI/UX design, where I built user-friendly interfaces, and now I'm diving deep into data analysis and machine learning. I enjoy working on projects that bridge the gap between technology and human experience.  
 
@@ -61,11 +67,3 @@ I love solving real-world problems through data and intuitive design. My journey
 - Designed an intuitive UI to enhance user experience  
 - Conducted user research and usability testing  
 - Created wireframes and interactive prototypes using Figma  
-
-
-## 📫 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/tracy-nguyen-86687a241/)  
-[Portfolio](https://silicon-base-535.notion.site/Tracy-Nguyen-19faffefd9b7807b913fecbd38e3803d?pvs=4)  
-[Email](mailto:ngocthiennhi9a2@gmail.com)
-[Resume](https://drive.google.com/file/d/1hLparge0rq37U5a7mXrsLpUayjoIrRIn/view?usp=sharing)
-

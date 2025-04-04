@@ -67,5 +67,5 @@ I love solving real-world problems through data and intuitive design. My journey
 [LinkedIn](https://www.linkedin.com/in/tracy-nguyen-86687a241/)  
 [Portfolio](https://silicon-base-535.notion.site/Tracy-Nguyen-19faffefd9b7807b913fecbd38e3803d?pvs=4)  
 [Email](mailto:ngocthiennhi9a2@gmail.com)
-[Resume](https://drive.google.com/file/d/1akIPsSQvodGtm4d_hOIGA6aw6108CdNt/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1hLparge0rq37U5a7mXrsLpUayjoIrRIn/view?usp=sharing)
 

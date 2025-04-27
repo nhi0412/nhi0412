@@ -8,7 +8,7 @@
 [LinkedIn](https://www.linkedin.com/in/tracy-nguyen-86687a241/)  
 [Portfolio](https://silicon-base-535.notion.site/Tracy-Nguyen-19faffefd9b7807b913fecbd38e3803d?pvs=4)  
 [Email](mailto:ngocthiennhi9a2@gmail.com)
-[Resume](https://drive.google.com/file/d/1uHpQCSBzx9ADC8oW58PYST5ZZdZ96XAk/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1eJp2NW_Dz_0LXVEWL-WOsZkMdY3tPRml/view?usp=sharing)
 
 ## 🚀 About Me  
 I love solving real-world problems through data and intuitive design. My journey started with UI/UX design, where I built user-friendly interfaces, and now I'm diving deep into data analysis and machine learning. I enjoy working on projects that bridge the gap between technology and human experience.  
@@ -17,10 +17,17 @@ I love solving real-world problems through data and intuitive design. My journey
 - **Programming**: Python(Pandas, NumPy, MatPlotLib, Seaborn), R, HTML, CSS, JavaScript, C++, Java, React
 - **Databases**: MySQL, PostgreSQL, Google Bigquery, MongoDB  
 - **Tools**: Power BI(DAX, Power Query, Data Modeling), Figma
-- **Frameworks**: Spring Boot, Node.js
-- **Machine Learning**: Supervised Learning with Scikit-learn 
+- **Machine Learning**: Supervised Learning with Scikit-learn and Unsupervised Learning
 
 ## 📌 Projects  
+### 📊 [User Churn Prediction & Customer Segmentation | Python](https://github.com/nhi0412/Python_ML_User_Churn_Prediction)
+*Predict customer churn and segment churned users into meaningful groups to support targeted strategies.*
+- Developed a Random Forest model to predict customer churn, achieving high accuracy and balanced accuracy after hyperparameter tuning with GridSearchCV.
+- Conducted EDA to uncover churn drivers, including tenure duration, coupon usage, and order patterns.
+- Applied PCA and K-Means clustering to segment churned users into distinct behavioral groups.
+- Built insightful visualizations to highlight key differences between segments and identify churn factors.
+- Generated actionable recommendations to support re-engagement campaigns and reduce churn rates.
+
 ### 📊 [RFM Analysis | Python](https://github.com/nhi0412/Python_RFM_Analysis/tree/main)
 *Segment customers to launch marketing campaigns showing appreciation to loyal customers and engaging potential customers who could become loyal.*
 - Preprocessed 500K+ transaction records to compute Recency, Frequency, and Monetary scores per customer.
@@ -29,12 +36,19 @@ I love solving real-world problems through data and intuitive design. My journey
 - Created visualizations (bar charts, boxplots, stacked columns, FacetGrid) to understand customer behavior across countries and segments.
 - Provided actionable insights to help the Marketing team appreciate loyal customers and convert potential ones during the festive season.
 
-### 📊 [Superstore Sales Analysis | Power BI](https://github.com/nhi0412/PowerBI_SuperStore_Sales_and_Expansion_Potential_Analysis/tree/main)
+### 📊 [Superstore Sales Analysis | Power BI](https://github.com/nhi0412/PowerBI_Pizza_Store_Analysis)
 *Developed a real-time dashboard for senior management to track business performance and guide strategic decisions*
 - Integrated order, sales, return, and customer data for real-time insights
 - Created a dynamic dashboard showcasing sales, profit margins, and product performance by region
 - Analyzed customer segments, sales trends, and inventory turnover for market expansion opportunities
 - Provided data-driven recommendations for strategic product selection and regional growth
+
+### 📊 [Pizza Sales Analysis | Power BI](https://github.com/nhi0412/PowerBI_SuperStore_Sales_and_Expansion_Potential_Analysis/tree/main)
+*Uncovered sales trends and product performance to optimize pricing and marketing strategies.*
+- Built an interactive Power BI dashboard tracking total revenue, quantity sold, order volume, and average order value.
+- Analyzed sales trends by day, week, and month to identify peak periods, seasonal patterns, and low-performing times.
+- Performed product and ingredient analysis, ranking top pizzas and exploring size, price, and quantity correlations.
+- Segmented single vs multi-item orders, examined customer purchasing behavior, and generated business recommendations.
 
 ### 📊 [AdventureWorks_Inventory_Analysis | SQL, PowerBI](https://github.com/nhi0412/SQL_PowerBI_Adventureworks_Inventory_Analysis)
 *Analyzed the AdventureWorks dataset to evaluate inventory performance across product categories, warehouses, and regions.*

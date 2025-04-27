@@ -20,7 +20,7 @@ I love solving real-world problems through data and intuitive design. My journey
 - **Machine Learning**: Supervised Learning with Scikit-learn and Unsupervised Learning
 
 ## 📌 Projects  
-### 📊 [User Churn Prediction & Customer Segmentation | Python](https://github.com/nhi0412/Python_ML_User_Churn_Prediction)
+### 📊 [User Churn Prediction & Customer Segmentation | Python, ML](https://github.com/nhi0412/Python_ML_User_Churn_Prediction)
 *Predict customer churn and segment churned users into meaningful groups to support targeted strategies.*
 - Developed a Random Forest model to predict customer churn, achieving high accuracy and balanced accuracy after hyperparameter tuning with GridSearchCV.
 - Conducted EDA to uncover churn drivers, including tenure duration, coupon usage, and order patterns.
